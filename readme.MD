@@ -10,10 +10,10 @@
 
 ###效果图
 
-![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/1.jpg)
-![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/2.jpg)
-![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/3.jpg)
-![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/4.jpg)
+![image](https://github.com/sinnuswong/Bible/blob/master/screenshots/1.jpg)
+![image](https://github.com/sinnuswong/Bible/blob/master/screenshots/2.jpg)
+![image](https://github.com/sinnuswong/Bible/blob/master/screenshots/3.jpg)
+![image](https://github.com/sinnuswong/Bible/blob/master/screenshots/4.jpg)
 
 ###下载链接
 
