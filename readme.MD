@@ -1,23 +1,23 @@
-###ÁéĞŞ°æÊ¥¾­
+###çµä¿®ç‰ˆåœ£ç»
 
-Ò»¿î±È½ÏÃÀ¹ÛµÄÊ¥¾­app£¬»ùÓÚGoogle Material Design,ÊÇ×÷ÕßÑ§Ï°android¶ø¿ª·¢
+ä¸€æ¬¾æ¯”è¾ƒç¾è§‚çš„åœ£ç»appï¼ŒåŸºäºGoogle Material Design,æ˜¯ä½œè€…å­¦ä¹ androidè€Œå¼€å‘
 
-±¾°æ±¾»ùÓÚÁéĞŞ°æÊ¥¾­ÄÚÈİ ¶øÖØĞÂÉè¼Æ£¬ÈçÓĞÇÖÈ¨ÇëÁªÏµÎÒ
+æœ¬ç‰ˆæœ¬åŸºäºçµä¿®ç‰ˆåœ£ç»å†…å®¹ è€Œé‡æ–°è®¾è®¡ï¼Œå¦‚æœ‰ä¾µæƒè¯·è”ç³»æˆ‘
 
-Ê¥¾­ÄÚÈİ°æÈ¨¹éÓÚÉñ£¬ÁéĞŞÄÚÈİ¹éÓÚËüÈË£¬ÆäÓà°æÈ¨¹éÓÚÎÒ×Ô¼º
+åœ£ç»å†…å®¹ç‰ˆæƒå½’äºç¥ï¼Œçµä¿®å†…å®¹å½’äºå®ƒäººï¼Œå…¶ä½™ç‰ˆæƒå½’äºæˆ‘è‡ªå·±
 
-ÁªÏµ·½Ê½:sinnus@qq.com
+è”ç³»æ–¹å¼:sinnus@qq.com
 
-###Ğ§¹ûÍ¼
+###æ•ˆæœå›¾
 
-![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/1.jpg)
+![image](https://github.com/sinnuswong/Bible/blob/master/screenshots/1.jpg)
 ![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/2.jpg)
 ![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/3.jpg)
 ![image](https://raw.githubusercontent.com/sinnuswong/server/master/Bible/screenshots/4.jpg)
 
-###ÏÂÔØÁ´½Ó
+###ä¸‹è½½é“¾æ¥
 
-###¹ØÓÚÎÒ
+###å…³äºæˆ‘
 
 * **Email:** [sinnus@qq.com]
 * **Github:** [https://github.com/sinnuswong]
@@ -26,7 +26,7 @@
 ```
 Copyright (c) 2015 [sinnus@qq.com]
 
-Licensed under the Apache License, Version 2.0 (the "License¡±);
+Licensed under the Apache License, Version 2.0 (the "Licenseâ€);
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
    
