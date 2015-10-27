@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">灵修版圣经</string>
+    <string name="action_exit">退出</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_home">首页</string>
+    <string name="title_mark">书签</string>
+    <string name="title_history">历史</string>
+    <string name="title_settings">设置</string>
+    <string name="title_about">关于</string>
+    <string name="title_exit">退出</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="about_bottom_text">Powered and Designed by Sinnus Wong\nAll Rights Reserved.</string>
+
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_setting">SettingActivity</string>
+
+    <string name="material_switch_preference_on">打开</string>
+    <string name="material_switch_preference_off">关闭</string>
+    <string name="other">其它</string>
+    <string name="advice_feedback">意见反馈</string>
+    <string name="give_favor">给应用点赞</string>
+    <string name="advice_feedback_key">advice_feedback_key</string>
+    <string name="give_favor_key">give_favor_key</string>
+    <string name="night_mode_key">night_mode_key</string>
+    <string name="change_theme_key">change_theme_key</string>
+    <string name="change_theme">更改主题</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="change_background_color">设置背景颜色</string>
+    <string name="change_background_color_key">change_back_ground_key</string>
+</resources>

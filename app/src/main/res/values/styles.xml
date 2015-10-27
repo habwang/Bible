@@ -1,0 +1,89 @@
+<resources>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="popupTheme">@style/popupTheme</item>
+
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="actionMenuTextAppearance">@style/MyTextAppearance</item>
+        <!--<item name="popupMenuStyle">@style/popupMenuStyle</item>-->
+
+
+        <!--更改actionMenu上面字体大小，但是无法更改toolbar中的menu中的字体的颜色
+        更改toolbar中的menu上的字体颜色必须去设置toolbar theme中的menu设置-->
+
+        <!--<item name="android:actionMenuTextColor">@color/baixing</item>-->
+        <!--item name="android:fitsSystemWindows">true</item>
+        <item name="android:clipToPadding">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@drawable/window_background -->
+    </style>
+
+    <style name="NavigationTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="android:textColorPrimary">@color/gray</item>-->
+        <!--<item name="android:textColorSecondary">@color/gray</item>-->
+        <item name="android:textSize">18sp</item>
+        <item name="popupMenuStyle">@style/popupMenuStyle</item>
+    </style>
+    <style name="MyTextAppearance">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <!-- ToolBar -->
+
+    <!-- 右上角弹出的菜单设置 -->
+    <style name="popupTheme">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:background">@color/baixing</item>
+    </style>
+
+    <style name="popupMenuStyle" parent="Base.Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:textColor">?attr/colorPrimary</item>
+    </style>
+
+    <style name="RedTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/red</item>
+        <item name="colorAccent">@color/red</item>
+
+    </style>
+
+    <style name="GreenTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/green</item>
+    </style>
+
+    <style name="BlueTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="PinkTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/pink</item>
+        <item name="colorAccent">@color/pink</item>
+    </style>
+
+    <style name="BiluTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/bilu</item>
+        <item name="colorPrimaryDark">@color/bilu</item>
+        <item name="colorAccent">@color/bilu</item>
+    </style>
+
+    <style name="BlackTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="BlueGreyTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/BlueGrey900</item>
+        <item name="colorPrimaryDark">@color/BlueGrey900</item>
+        <item name="colorAccent">@color/BlueGrey900</item>
+    </style>
+    <style name="AppTheme" parent="GreenTheme">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

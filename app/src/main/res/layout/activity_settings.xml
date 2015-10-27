@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settings_main"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorPrimary"
+    tools:context="com.sinnus.bible.activity.SettingsActivity">
+
+    <include layout="@layout/toolbar_layout" />
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/toolbar"
+        android:background="@color/baixing">
+        <fragment
+            android:id="@+id/settings_fragment"
+            android:name="com.sinnus.bible.fragment.SettingsFragment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            />
+    </FrameLayout>
+
+</RelativeLayout>

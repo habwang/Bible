@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.jenzz.materialpreference.PreferenceCategory
+        android:layout="@layout/preference_category"
+        android:title="个性化">
+        <com.jenzz.materialpreference.SwitchPreference
+            android:key="@string/night_mode_key"
+            android:title="@string/night_mode" />
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/change_theme_key"
+            android:title="@string/change_theme" />
+
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/change_background_color_key"
+            android:title="@string/change_background_color" />
+
+    </com.jenzz.materialpreference.PreferenceCategory>
+    <com.jenzz.materialpreference.PreferenceCategory android:title="@string/other">
+        <com.jenzz.materialpreference.Preference
+            android:key="advice_feedback_key"
+            android:title="@string/advice_feedback" />
+        <com.jenzz.materialpreference.Preference
+            android:key="give_favor_key"
+            android:title="@string/give_favor" />
+    </com.jenzz.materialpreference.PreferenceCategory>
+
+</PreferenceScreen>
