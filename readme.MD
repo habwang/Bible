@@ -16,7 +16,7 @@
 ![image](https://github.com/sinnuswong/Bible/blob/master/screenshots/4.jpg)
 
 ###下载链接
-
+[下载APK](https://github.com/sinnuswong/Bible/blob/master/apk/bible.apk)
 ###关于我
 
 * **Email:** [sinnus@qq.com]
